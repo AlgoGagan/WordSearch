@@ -1,0 +1,293 @@
+{
+    "views": [
+        {
+            "name": "Kitchen",
+            "items": [
+                {
+                    "name": "Jars",
+                    "isLocked": false,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": -1.599341630935669,
+                        "y": 2.1442508697509767,
+                        "z": -9.5367431640625e-7
+                    },
+                    "size": {
+                        "x": 400.0,
+                        "y": 400.0
+                    },
+                    "variations": {
+                        "average": "Jars",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "cooker",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": -0.24414725601673127,
+                        "y": -0.8916681408882141,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 400.0,
+                        "y": 400.0
+                    },
+                    "variations": {
+                        "average": "cooker",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "hangings",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 0.7112118601799011,
+                        "y": 1.4401153326034547,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 400.0,
+                        "y": 400.0
+                    },
+                    "variations": {
+                        "average": "hangings",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "Jars",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": -1.599341630935669,
+                        "y": 2.1442508697509767,
+                        "z": -9.5367431640625e-7
+                    },
+                    "size": {
+                        "x": 400.0,
+                        "y": 400.0
+                    },
+                    "variations": {
+                        "average": "Jars",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "fruits",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 1.7833362817764283,
+                        "y": 0.8456693887710571,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 400.0,
+                        "y": 400.0
+                    },
+                    "variations": {
+                        "average": "fruits",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "plates",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": -1.5993412733078004,
+                        "y": 1.51088285446167,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 404.0,
+                        "y": 401.0
+                    },
+                    "variations": {
+                        "average": "plates",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "rug",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": -0.15568815171718598,
+                        "y": -2.784693717956543,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 1085.0,
+                        "y": 345.419921875
+                    },
+                    "variations": {
+                        "average": "rug",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "spoons",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 0.5909071564674377,
+                        "y": -0.3927586078643799,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 175.8000030517578,
+                        "y": 175.8000030517578
+                    },
+                    "variations": {
+                        "average": "spoons",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "chimney",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": -0.10261262208223343,
+                        "y": 1.0438178777694703,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 400.0,
+                        "y": 480.0
+                    },
+                    "variations": {
+                        "average": "chimney",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                },
+                {
+                    "name": "clock",
+                    "isLocked": true,
+                    "defaultPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 0.1521497219800949,
+                        "y": 3.3968324661254885,
+                        "z": 0.0
+                    },
+                    "size": {
+                        "x": 400.0,
+                        "y": 401.0
+                    },
+                    "variations": {
+                        "average": "clock",
+                        "cute": "",
+                        "attractive": "",
+                        "beautiful": "",
+                        "gorgeous": ""
+                    }
+                }
+            ],
+            "background": {
+                "instanceID": 34272
+            },
+            "backgroundName": "background",
+            "lockedBackground": {
+                "instanceID": 34274
+            },
+            "lockedBackgroundName": "locked",
+            "item": {
+                "name": "",
+                "isLocked": true,
+                "defaultPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "size": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "variations": {
+                    "average": "",
+                    "cute": "",
+                    "attractive": "",
+                    "beautiful": "",
+                    "gorgeous": ""
+                }
+            }
+        }
+    ],
+    "lastUpdated": -8584723627436514041
+}
